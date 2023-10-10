@@ -6,13 +6,13 @@ Welcome to the Diwali Sales Analysis project! This project focuses on analyzing 
 
 ## Project Highlights
 
-- **Data Cleaning and Manipulation:** We started by cleaning and preparing the dataset, ensuring accuracy and consistency.
+- **Data Cleaning and Manipulation:** I started by cleaning and preparing the dataset, ensuring accuracy and consistency.
 
-- **Exploratory Data Analysis (EDA):** Through EDA, we leveraged Pandas, Matplotlib, and Seaborn to visualize data trends, uncover patterns, and make informed decisions.
+- **Exploratory Data Analysis (EDA):** Through EDA, I leveraged Pandas, Matplotlib, and Seaborn to visualize data trends, uncover patterns, and make informed decisions.
 
-- **Customer Segmentation:** We improved customer experience by identifying potential customers across different states, occupations, genders, and age groups. This segmentation can help tailor marketing strategies.
+- **Customer Segmentation:** I improved customer experience by identifying potential customers across different states, occupations, genders, and age groups. This segmentation can help tailor marketing strategies.
 
-- **Product Category Analysis:** By analyzing order counts and the amount spent, we identified the most selling product categories. This information can be instrumental in inventory planning to meet demand effectively.
+- **Product Category Analysis:** By analyzing order counts and the amount spent, I identified the most selling product categories. This information can be instrumental in inventory planning to meet demand effectively.
 
 ## Project Learnings
 
