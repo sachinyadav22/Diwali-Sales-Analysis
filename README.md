@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Welcome to the Diwali Sales Analysis project! This project focuses on analyzing sales data to gain valuable insights into customer behavior and product performance during the Diwali season. Using Python and data analysis libraries such as NumPy, Pandas, Matplotlib, and Seaborn, we've conducted an in-depth analysis based on various factors, including age, gender, occupation, and marital status.
+Welcome to the Diwali Sales Analysis project! This project focuses on analyzing sales data to gain valuable insights into customer behavior and product performance during the Diwali season. Using Python and data analysis libraries such as NumPy, Pandas, Matplotlib, and Seaborn, I've conducted an in-depth analysis based on various factors, including age, gender, occupation, and marital status.
 
 ## Project Highlights
 
